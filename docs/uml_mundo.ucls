@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="model.vo.Taxi" project="p1-201810-cliente" 
+    file="/p1-201810-cliente/src/model/vo/Taxi.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="209" width="212" x="2389" y="482"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="model.vo.InfoTaxiRango" project="p1-201810-cliente" 
+    file="/p1-201810-cliente/src/model/vo/InfoTaxiRango.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="443" width="339" x="772" y="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="model.vo.Servicio" project="p1-201810-cliente" 
+    file="/p1-201810-cliente/src/model/vo/Servicio.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="281" width="238" x="1151" y="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="model.vo.ZonaServicios" project="p1-201810-cliente" 
+    file="/p1-201810-cliente/src/model/vo/ZonaServicios.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="209" width="314" x="2035" y="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="model.vo.Compania" project="p1-201810-cliente" 
+    file="/p1-201810-cliente/src/model/vo/Compania.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="209" width="238" x="2616" y="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="model.vo.RangoDistancia" project="p1-201810-cliente" 
+    file="/p1-201810-cliente/src/model/vo/RangoDistancia.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="263" width="285" x="2894" y="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

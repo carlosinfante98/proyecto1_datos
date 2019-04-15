@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="model.data_structures.DoubleNode" project="p1-201810-cliente" 
+    file="/p1-201810-cliente/src/model/data_structures/DoubleNode.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1602" y="885"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="model.data_structures.SimpleNode" project="p1-201810-cliente" 
+    file="/p1-201810-cliente/src/model/data_structures/SimpleNode.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="189" x="864" y="697"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="model.data_structures.ArrayListT" project="p1-201810-cliente" 
+    file="/p1-201810-cliente/src/model/data_structures/ArrayListT.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="364" y="215"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="model.data_structures.Queue" project="p1-201810-cliente" 
+    file="/p1-201810-cliente/src/model/data_structures/Queue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="513" y="691"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="model.data_structures.AbstractList" project="p1-201810-cliente" 
+    file="/p1-201810-cliente/src/model/data_structures/AbstractList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1146" y="224"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="6" language="java" name="model.data_structures.IArrayListT" project="p1-201810-cliente" 
+    file="/p1-201810-cliente/src/model/data_structures/IArrayListT.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="121" x="303" y="414"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="7" language="java" name="model.data_structures.LinkedList" project="p1-201810-cliente" 
+    file="/p1-201810-cliente/src/model/data_structures/LinkedList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1411" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="8" language="java" name="model.data_structures.IteratorList" project="p1-201810-cliente" 
+    file="/p1-201810-cliente/src/model/data_structures/IteratorList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="587" y="419"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="model.data_structures.DoubleLinkedList" project="p1-201810-cliente" 
+    file="/p1-201810-cliente/src/model/data_structures/DoubleLinkedList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1602" y="434"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="10" language="java" name="model.data_structures.IQueue" project="p1-201810-cliente" 
+    file="/p1-201810-cliente/src/model/data_structures/IQueue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="506" y="938"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="11" language="java" name="model.data_structures.IStack" project="p1-201810-cliente" 
+    file="/p1-201810-cliente/src/model/data_structures/IStack.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1372" y="763"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="12" language="java" name="model.data_structures.Stack" project="p1-201810-cliente" 
+    file="/p1-201810-cliente/src/model/data_structures/Stack.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1378" y="552"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="model.data_structures.SingleLinkedList" project="p1-201810-cliente" 
+    file="/p1-201810-cliente/src/model/data_structures/SingleLinkedList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="783" y="176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="14">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="15" name="coming">        
+        <position height="19" width="47" x="784" y="660"/>      
+      </attribute>      
+      <multiplicity id="16" minimum="0" maximum="1">        
+        <position height="17" width="26" x="818" y="681"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="17">    
+    <bendpoint x="1160" y="480"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="18" name="firstNode">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="19" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="20">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="21" name="previousNode">        
+        <position height="0" width="0" x="356" y="-7"/>      
+      </attribute>      
+      <multiplicity id="22" minimum="0" maximum="1">        
+        <position height="0" width="0" x="356" y="-7"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="23">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="24" name="lastNode">        
+        <position height="19" width="56" x="785" y="721"/>      
+      </attribute>      
+      <multiplicity id="25" minimum="0" maximum="1">        
+        <position height="17" width="26" x="807" y="738"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="27">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="28" name="actualNode">        
+        <position height="0" width="0" x="356" y="-7"/>      
+      </attribute>      
+      <multiplicity id="29" minimum="0" maximum="1">        
+        <position height="0" width="0" x="356" y="-7"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <realization id="31">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <association id="32">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="33" name="nextNode">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="34" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="35">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <association id="36">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="37" name="firstNode">        
+        <position height="19" width="57" x="771" y="783"/>      
+      </attribute>      
+      <multiplicity id="38" minimum="0" maximum="1">        
+        <position height="17" width="26" x="800" y="802"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="40" name="actualNode">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="41" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="42">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <realization id="43">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <generalization id="44">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="45">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="46" name="firstNode">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="47" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="48">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="6"/>  
+  </realization>  
+  <dependency id="49">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="50">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="51">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
